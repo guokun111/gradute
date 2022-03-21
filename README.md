@@ -1,5 +1,6 @@
 # gradute
 毕业设计准备
+```
 class Net(nn.Module):
     def __init__(self):
         nn.Module.__init__(self)
@@ -11,3 +12,4 @@ class Net(nn.Module):
         return x
 print(net.conv2d.weight)         
 print(net.conv2d.bias)
+```
