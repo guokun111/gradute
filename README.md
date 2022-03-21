@@ -23,4 +23,5 @@ print(net.conv2d.bias)
 原文链接：https://blog.csdn.net/qq_42079689/article/details/102642610
 
 ![image](https://user-images.githubusercontent.com/43991078/159202091-24e61166-51f7-4a6b-9af4-8f8d33f351e0.png)
+https://blog.csdn.net/qq_34107425/article/details/104117670 参考
 
