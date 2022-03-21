@@ -9,6 +9,5 @@ class Net(nn.Module):
         print(x.requires_grad)
         x = self.conv2d(x)
         return x
-    
-print(net.conv2d.weight)
+print(net.conv2d.weight)         
 print(net.conv2d.bias)
